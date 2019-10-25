@@ -1,6 +1,6 @@
 # realsense_packages
-Launch RealSense:
+#Launch RealSense:
 roslaunch realsense2_camera rs_camera.launch
 
-Launch Listener:
+#Launch Listener:
 rosrun depth-listener depth-listener.py
